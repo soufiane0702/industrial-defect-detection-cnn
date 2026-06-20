@@ -61,3 +61,6 @@ Confidence: 99.6%
 * Go / No-Go Inspection System
 * Defect Localization using XML annotations
 * Web Interface Deployment
+
+## Note: The trained model file is not included in this repository due to GitHub file size limitations. The notebook contains the complete training pipeline and can be used to reproduce the model.
+
